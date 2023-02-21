@@ -89,7 +89,6 @@ int main(){
 			if(textline == "> Students"){
 				state = 3;
 			}else{
-
 				
 
 				allcourses[i].lecture_list.push_back(textline);
